@@ -72,4 +72,3 @@ American Academy, Gandhipuram (Part-time)
 
 ---
 
-## 📂 Project Structure
